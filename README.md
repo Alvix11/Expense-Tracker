@@ -18,7 +18,7 @@ It is inspired from the Expense Tracker project https://roadmap.sh/projects/expe
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Alvix11/Expense-Tracker-CLI.git
 cd expense-tracker
 ```
 
